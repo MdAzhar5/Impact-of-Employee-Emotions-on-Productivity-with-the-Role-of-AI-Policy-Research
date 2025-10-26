@@ -30,7 +30,7 @@ Impact-of-Employee-Emotions-on-Productivity-with-the-Role-of-AI-Policy/
 │     ├── Moderation_PosEmotion_WorkEngagement.png
 │     ├── Moderation_WorkEngagement_Productivity.png
 │
-└── README.md / README.html
+└── README.md
 ```
 
 ---
